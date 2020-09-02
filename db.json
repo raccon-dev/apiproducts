@@ -1,0 +1,83 @@
+{
+  "products": [
+      {
+          "id": 1,
+          "title": "Philadelphia Set",
+          "img": "./assets/img/suschi-image.jpg",
+          "rating": 4.8,
+          "description": "Standart set consists of 5 rolls: Roll Philadelphia-balance 8 pcs., Roll with omelet 8 pcs., Vegetarian roll 8 pcs., Roll Zoya sits at home 8 pcs., Green roll V.2.0 8 pcs.",
+          "aviableWeight": ["874g", "2kg", "5kg"],
+          "price": 14,
+          "category": "sushi"
+
+      },
+      {
+          "id": 2,
+          "title": "Semga Set",
+          "img": "./assets/img/semga.jpg",
+          "rating": 4.4,
+          "description": "Standart set consists of 5 rolls: Roll Philadelphia-balance 8 pcs., Roll with omelet 8 pcs., Vegetarian roll 8 pcs., Roll Zoya sits at home 8 pcs., Green roll V.2.0 8 pcs.",
+          "aviableWeight": ["874g", "2kg","5kg"],
+          "price": 22,
+          "category": "sushi"
+
+      },
+      {
+          "id": 3,
+          "title": "Samurai Set",
+          "img": "./assets/img/samurai.jpg",
+          "rating": 4.8,
+          "description": "Standart set consists of 5 rolls: Roll Philadelphia-balance 8 pcs., Roll with omelet 8 pcs., Vegetarian roll 8 pcs., Roll Zoya sits at home 8 pcs., Green roll V.2.0 8 pcs.",
+          "aviableWeight": ["874g", "2kg","5kg"],
+          "price": 19,
+          "category": "sushi"
+
+      },
+      {
+          "id": 4,
+          "title": "Cookie",
+          "img": "./assets/img/cookie.jpg",
+          "rating": 4.9,
+          "description": "Standart set consists of 5 rolls: Roll Philadelphia-balance 8 pcs., Roll with omelet 8 pcs., Vegetarian roll 8 pcs., Roll Zoya sits at home 8 pcs., Green roll V.2.0 8 pcs.",
+          "aviableWeight": ["100g", "500g","1kg"],
+          "price": 8,
+          "category": "desert"
+
+      },
+      {
+          "id": 5,
+          "title": "Beer",
+          "img": "./assets/img/beer.jpg",
+          "rating": 4.9,
+          "description": "Standart set consists of 5 rolls: Roll Philadelphia-balance 8 pcs., Roll with omelet 8 pcs., Vegetarian roll 8 pcs., Roll Zoya sits at home 8 pcs., Green roll V.2.0 8 pcs.",
+          "aviableWeight": ["0.5ml", "1.0ml"],
+          "price": 25,
+          "category": "drinks"
+
+      },
+      {
+          "id": 6,
+          "title": "Juice",
+          "img": "./assets/img/juice.jpg",
+          "rating": 4.2,
+          "description": "Standart set consists of 5 rolls: Roll Philadelphia-balance 8 pcs., Roll with omelet 8 pcs., Vegetarian roll 8 pcs., Roll Zoya sits at home 8 pcs., Green roll V.2.0 8 pcs.",
+          "aviableWeight": ["0.5ml", "1.0ml",  "2.0ml"],
+          "price": 8,
+          "category": "drinks"
+
+      },
+      {
+          "id": 7,
+          "title": "Soup",
+          "img": "./assets/img/soup.jpg",
+          "rating": 4.6,
+          "description": "Standart set consists of 5 rolls: Roll Philadelphia-balance 8 pcs., Roll with omelet 8 pcs., Vegetarian roll 8 pcs., Roll Zoya sits at home 8 pcs., Green roll V.2.0 8 pcs.",
+          "aviableWeight": ["0.5ml"],
+          "price": 10,
+          "category": "vegan"
+
+      }
+
+      
+  ]
+}
